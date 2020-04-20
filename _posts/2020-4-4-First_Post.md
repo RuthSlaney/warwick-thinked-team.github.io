@@ -1,7 +1,9 @@
---- <!--- dont edit layout: post -->
+--- 
 layout: post
 title: Template Post
 ---
+
+<!--- dont edit layout: post -->
 
 First content, then image
 
