@@ -1,10 +1,10 @@
----
+--- <!--- dont edit layout: post -->
 layout: post
-title: First Post
+title: Template Post
 ---
 
-test
+First content, then image
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-test 2
+Second content, then date of writing
